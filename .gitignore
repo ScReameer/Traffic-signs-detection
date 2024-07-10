@@ -1,2 +1,4 @@
 *.ckpt
 *__
+runs
+*.pt
